@@ -1,0 +1,5 @@
+{
+  "name": "Raffle Spinner",
+  "description": "A fun, interactive spinner wheel to randomly select a lucky winner from a list of participants. Perfect for livestreams, workshops, and giveaways.",
+  "requestFramePermissions": []
+}
